@@ -1,0 +1,7 @@
+#Sat Oct 01 03:50:17 PDT 2016
+base.0=C\:\\Users\\Erick\\Desktop\\SD-Hacks-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dced41bacf9b3eececc239c40d33b39542327519
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Erick\\Desktop\\SD-Hacks-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_332b6eca28fb44e7e6b9a5d64bcba8bf2ab7238a\\classes.dex
+base.1=C\:\\Users\\Erick\\Desktop\\SD-Hacks-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_332b6eca28fb44e7e6b9a5d64bcba8bf2ab7238a
+file.0=C\:\\Users\\Erick\\Desktop\\SD-Hacks-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dced41bacf9b3eececc239c40d33b39542327519\\classes.dex
