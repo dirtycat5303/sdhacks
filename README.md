@@ -1,4 +1,5 @@
 <h3>HomeCoo</h3>
+![splashscreen](https://user-images.githubusercontent.com/10952643/32090829-43072dfc-baa6-11e7-9b13-0ebbb90348a1.png)
 We noticed that there tends to be families all over the US that cook more than what they eat.
 This application modeled selling the extra food that families tend cook.
 The buyer could go into this app and see what the families around his commute would be cookig for the day ahead of time. After choosing
