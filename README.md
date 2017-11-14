@@ -7,7 +7,8 @@ This application was developed at SD Hacks at UC San Diego.
 </div>
 <div>
 <br>
-  Some screenshots
+  
+ # Some screenshots
 <a><img src="https://user-images.githubusercontent.com/10952643/32257095-3014247a-be70-11e7-8046-3911ed2b7d26.png" width="300"></a>
 <a><img src="https://user-images.githubusercontent.com/10952643/32257118-5f0d1714-be70-11e7-879d-fee1b8ba9457.png" width="300"></a>
  </div>  
